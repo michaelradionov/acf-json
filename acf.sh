@@ -1,3 +1,5 @@
+# Скрипт для активации функции ACF LOCAL JSON
+
 sys=`uname`;
 if [ $sys == 'Darwin' ];
 
