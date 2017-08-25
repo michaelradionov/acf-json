@@ -15,5 +15,5 @@ fi
 
 mkdir themes/template/acf-json
 chmod 777 themes/template/acf-json
-echo '<? echo "Silence is golden";?>'>>themes/template/acf-json/index.php
+echo '<? echo "Silence is golden";?>'>themes/template/acf-json/index.php
 rm acf.sh
